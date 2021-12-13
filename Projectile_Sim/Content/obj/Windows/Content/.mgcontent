@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/../../../../../Pictures/Screenshots/basketball.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/../../../../../Pictures/Screenshots/mouse drag.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/../../../../../Pictures/Screenshots/next.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Fonts/font.spritefont</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Fonts/unit.spritefont</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/arrow.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/background.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/cannon head.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/cannon platform.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/clear.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/dot.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/first screen.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/instructions.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/minus.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/next.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/plus.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/second screen.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/variables.png</File>
+    <File>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Images/Sprites/vector.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Images/Sprites/basketball.png</File>
+    <File>Images/Sprites/mouse drag.png</File>
+    <File>Images/Sprites/next.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

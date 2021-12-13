@@ -1,0 +1,45 @@
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Projectile_Sim.exe
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Projectile_Sim.pdb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\obj\x86\Debug\Projectile_Sim.csprojAssemblyReference.cache
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\obj\x86\Debug\Projectile_Sim.csproj.CoreCompileInputs.cache
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\obj\x86\Debug\Projectile_Sim.csproj.CopyComplete
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\obj\x86\Debug\Projectile_Sim.exe
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\obj\x86\Debug\Projectile_Sim.pdb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\background.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\mouse drag.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\basketball.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\minus.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\plus.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Fonts\font.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\dot.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\variables.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Fonts\unit.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\cannon head.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\cannon platform.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\clear.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\instructions.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\first screen.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\next.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\second screen.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Projectile_Sim.exe.manifest
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Projectile_Sim.application
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\obj\x86\Debug\Projectile_Sim.exe.manifest
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\obj\x86\Debug\Projectile_Sim.application
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\arrow.xnb
+C:\Users\ep321\OneDrive\Documents\Physics Projects\Projectile_Sim\Projectile_Sim\bin\Windows\x86\Debug\Content\Images\Sprites\vector.xnb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/Fonts/unit.spritefont</SourceFile>
+  <SourceTime>2019-09-15T19:17:15.057295-04:00</SourceTime>
+  <DestFile>C:/Users/ep321/OneDrive/Documents/Physics Projects/Projectile_Sim/Projectile_Sim/Content/bin/Windows/Fonts/unit.xnb</DestFile>
+  <DestTime>2020-12-10T18:16:14.6055183-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-09-15T19:17:13.8435437-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-09-15T19:17:13.8435437-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
